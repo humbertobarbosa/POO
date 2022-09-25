@@ -1,2 +1,2 @@
 # POO
-Trabalhos realizados para a disciplina de POO, do curso de Ciência da Computação.
+Tarefas realizadas para a disciplina de POO, do curso de Ciência da Computação (UFAL).
