@@ -18,7 +18,7 @@ public class PersonLegal extends Person {
 
     @Override
     public boolean isValid() {
-        //!! CNPJ validator
+        //TODO CNPJ validator
         return false;
     }
     

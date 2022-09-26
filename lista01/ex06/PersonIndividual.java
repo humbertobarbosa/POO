@@ -18,7 +18,7 @@ public class PersonIndividual extends Person {
 
     @Override
     public boolean isValid() {
-        //!! CPF validator
+        //TODO CPF validator
         return false; 
     }
 
